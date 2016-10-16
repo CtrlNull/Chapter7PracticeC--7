@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  learningPushBackVectors.cpp
+d:\projects\c++\chapter.7.seven\learningpushbackvectors\learningpushbackvectors.cpp(36): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+  learningPushBackVectors.vcxproj -> D:\Projects\C++\Chapter.7.Seven\learningPushBackVectors\Debug\learningPushBackVectors.exe
